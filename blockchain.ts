@@ -57,7 +57,7 @@ class Blockchain {
     return { hash, nonce };
   }
 
-  createNewTransaction(amount: number, sender: string, recipient: string): void {
+  createNewTransaction({amount, sender, recipient}: Transaction): void {
     const newTransaction: Transaction = {
       amount,
       sender,
