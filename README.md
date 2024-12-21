@@ -12,5 +12,5 @@ To get started:
 
 3. Solidity
    remix playground: https://remix.ethereum.org/
+   Samples under ./contracts/
 
-   
