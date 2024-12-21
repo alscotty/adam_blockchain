@@ -9,3 +9,8 @@ To get started:
 2. run files
    ```bash
     ts-node <filename>.ts
+
+3. Solidity
+   remix playground: https://remix.ethereum.org/
+
+   
